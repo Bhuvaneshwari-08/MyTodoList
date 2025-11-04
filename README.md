@@ -4,6 +4,6 @@ https://bhuvaneshwari-08.github.io/MyTodoList/
 ### Program Output
 
 <p align="center">
-  <img src="images/taskimg.png" alt="Program Output" width="600"/>
+  <img src="taskimg.png" alt="Program Output" width="600"/>
 </p>
 
